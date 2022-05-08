@@ -1,0 +1,25 @@
+.header{
+    background-color: brown;
+    height: 50px;
+    box-sizing: border-box;
+    padding-top: 13px;
+    padding-left: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.text-center{
+    text-align: center;
+    
+}
+
+.inputs{
+    width: 300px;
+    align-self: center;
+}
+
+.center{
+    align-self: center;
+    /* margin-left: 520px; */
+}
